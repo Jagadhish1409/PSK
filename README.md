@@ -60,6 +60,9 @@ plt.show()
 ![433804349-2cc9aa3d-69d1-4ac5-aa54-cb02a9be18a2](https://github.com/user-attachments/assets/1a666448-e578-49c6-99cb-a2c60daa6c22)
 ### RESULT
 THUS THE PSK (Phase Shift Keying) IS PERFORMED USING PHYTON
+### Hardware experiment output waveform:
+![442509944-de2ce04c-cc77-49d9-a7b5-46a69520d5b7](https://github.com/user-attachments/assets/a78c530d-2bce-4d94-b765-9315c9fc9f62)
+
 
 
 
